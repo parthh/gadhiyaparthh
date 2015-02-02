@@ -1,0 +1,128 @@
+/*
+Theme Name:  BookCard
+Theme URI:   http://themeforest.net/user/pixelwars/portfolio?ref=pixelwars
+Author:      Pixelwars
+Author URI:  http://themeforest.net/user/pixelwars?ref=pixelwars
+Description: BookCard is a responsive portfolio WordPress theme.
+Version:     1.7
+License:     ThemeForest License
+License URI: http://themeforest.net/licenses?ref=pixelwars
+Tags:        light, dark, white
+Text Domain: bookcard
+*/
+
+/*
+    Do not remove any of the commented text above as it is used by the theme for proper function!
+*/
+
+/* WordPress Core -------------------------------------------------------------- */
+
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display:block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float:left;
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+a img.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float:left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin:0;
+    max-width: 98.5%;
+    padding:0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size:11px;
+    line-height:17px;
+    margin:0;
+    padding:0 4px 5px;
+}
+
+.sticky {
+
+}
+
+.gallery-caption {
+
+}
+
+.bypostauthor {
+
+}
+.spanaddresh li span{
+    font-weight: 900;
+padding-right: 2px;
+}
+.spanaddresh{
+    padding: 0px;
+    margin-left: 59px;
+}
+.contacth3 {
+    margin: 0px !important; 
+}
+.letssocial {
+margin: 0px !important;
+}
+.dropme{
+    margin: 0px !important;
+}

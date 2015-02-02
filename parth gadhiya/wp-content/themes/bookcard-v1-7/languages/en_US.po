@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BookCard v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-05-21 13:25:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: functions.php:187
+#@ bookcard
+msgid "Navigation Menu"
+msgstr ""
+
+#: functions.php:575
+#@ bookcard
+msgid "Custom field updated."
+msgstr ""
+
+#: functions.php:576
+#@ bookcard
+msgid "Custom field deleted."
+msgstr ""
+
+#: functions.php:585
+#@ bookcard
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: functions.php:536
+#@ bookcard
+msgid "Portfolio Item"
+msgstr ""
+
+#: functions.php:600
+#: functions.php:671
+#: functions.php:681
+#@ bookcard
+msgid "Departments"
+msgstr ""
+
+#: functions.php:672
+#@ bookcard
+msgid "Department"
+msgstr ""
+
+#: functions.php:675
+#@ bookcard
+msgid "Parent Department"
+msgstr ""
+
+#: functions.php:676
+#@ bookcard
+msgid "Parent Department:"
+msgstr ""
+
+#: functions.php:680
+#@ bookcard
+msgid "New Department Name"
+msgstr ""
+
+#: functions.php:601
+#: functions.php:805
+#@ bookcard
+msgid "Short Description"
+msgstr ""
+
+#: functions.php:508
+#: functions.php:539
+#: functions.php:677
+#@ bookcard
+msgid "Edit"
+msgstr ""
+
+#: functions.php:599
+#@ bookcard
+msgid "Featured Image"
+msgstr ""
+
+#: page.php:77
+#: page_inner-contact.php:23
+#: page_inner-front_cover.php:42
+#: page_inner-portfolio.php:30
+#: page_inner-portfolio.php:130
+#: page_inner-resume.php:23
+#: pf-audio.php:45
+#: pf-gallery.php:45
+#: pf-video.php:45
+#: single-portfolio.php:106
+#: template-page_with_sidebar.php:64
+#@ bookcard
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:535
+#@ bookcard
+msgid "Portfolio"
+msgstr ""
+
+#: functions.php:537
+#: functions.php:538
+#: functions.php:679
+#@ bookcard
+msgid "Add New"
+msgstr ""
+
+#: functions.php:543
+#: functions.php:673
+#: searchform.php:5
+#@ bookcard
+msgid "Search"
+msgstr ""
+
+#: functions.php:598
+#@ bookcard
+msgid "Title"
+msgstr ""
+
+#: functions.php:602
+#: functions.php:738
+#@ bookcard
+msgid "Type"
+msgstr ""
+
+#: functions.php:744
+#@ bookcard
+msgid "Standard"
+msgstr ""
+
+#: functions.php:712
+#@ bookcard
+msgid "Show All"
+msgstr ""
+
+#: functions.php:174
+#, php-format
+#@ bookcard
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:212
+#@ bookcard
+msgid "Home"
+msgstr ""
+
+#: functions.php:909
+#: functions.php:910
+#: functions.php:917
+#@ bookcard
+msgid "SEO"
+msgstr ""
+
+#: functions.php:540
+#@ bookcard
+msgid "New"
+msgstr ""
+
+#: functions.php:541
+#: functions.php:674
+#@ bookcard
+msgid "All"
+msgstr ""
+
+#: functions.php:542
+#@ bookcard
+msgid "View"
+msgstr ""
+
+#: functions.php:544
+#@ bookcard
+msgid "No Items found"
+msgstr ""
+
+#: functions.php:545
+#@ bookcard
+msgid "No Items found in Trash"
+msgstr ""
+
+#: functions.php:574
+#, php-format
+#@ bookcard
+msgid "<strong>Updated.</strong> <a target=\"_blank\" href=\"%s\">View</a>"
+msgstr ""
+
+#: functions.php:577
+#@ bookcard
+msgid "Updated."
+msgstr ""
+
+#: functions.php:579
+#, php-format
+#@ bookcard
+msgid "Restored to revision from %s"
+msgstr ""
+
+#: functions.php:580
+#, php-format
+#@ bookcard
+msgid "<strong>Published.</strong> <a target=\"_blank\" href=\"%s\">View</a>"
+msgstr ""
+
+#: functions.php:581
+#@ bookcard
+msgid "Saved."
+msgstr ""
+
+#: functions.php:582
+#, php-format
+#@ bookcard
+msgid "Submitted. <a target=\"_blank\" href=\"%s\">Preview</a>"
+msgstr ""
+
+#: functions.php:583
+#, php-format
+#@ bookcard
+msgid "Scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview</a>"
+msgstr ""
+
+#: functions.php:586
+#, php-format
+#@ bookcard
+msgid "<strong>Item draft updated.</strong> <a target=\"_blank\" href=\"%s\">Preview</a>"
+msgstr ""
+
+#: functions.php:603
+#@ bookcard
+msgid "Date"
+msgstr ""
+
+#: functions.php:678
+#@ bookcard
+msgid "Update"
+msgstr ""
+
+#: functions.php:756
+#@ bookcard
+msgid "Lightbox Video"
+msgstr ""
+
+#: functions.php:764
+#@ bookcard
+msgid "Direct URL"
+msgstr ""
+
+#: functions.php:772
+#@ bookcard
+msgid "Direct URL:"
+msgstr ""
+
+#: functions.php:774
+#@ bookcard
+msgid "Open link in new tab"
+msgstr ""
+
+#: functions.php:795
+#@ bookcard
+msgid "Thumbnail Size"
+msgstr ""
+
+#: functions.php:800
+#@ bookcard
+msgid "1x"
+msgstr ""
+
+#: functions.php:802
+#@ bookcard
+msgid "2x"
+msgstr ""
+
+#: functions.php:819
+#@ bookcard
+msgid "Details"
+msgstr ""
+
+#: functions.php:1680
+#@ bookcard
+msgid "Fonts"
+msgstr ""
+
+#: functions.php:1162
+#@ bookcard
+msgid "Subject"
+msgstr ""
+
+#: functions.php:748
+#@ bookcard
+msgid "Lightbox Featured Image"
+msgstr ""
+
+#: functions.php:752
+#@ bookcard
+msgid "Lightbox Gallery"
+msgstr ""
+
+#: functions.php:760
+#@ bookcard
+msgid "Lightbox Audio"
+msgstr ""
+
+#: functions.php:880
+#@ bookcard
+msgid "Description"
+msgstr ""
+
+#: functions.php:890
+#@ bookcard
+msgid "Keywords"
+msgstr ""
+
+#: functions.php:899
+#@ bookcard
+msgid "Separate keywords with commas"
+msgstr ""
+
+#: functions.php:1154
+#@ bookcard
+msgid "Name"
+msgstr ""
+
+#: functions.php:1158
+#@ bookcard
+msgid "Email"
+msgstr ""
+
+#: functions.php:1166
+#@ bookcard
+msgid "Message"
+msgstr ""
+
+#: functions.php:1170
+#@ bookcard
+msgid "Sending ..."
+msgstr ""
+
+#: functions.php:1171
+#@ bookcard
+msgid "SEND"
+msgstr ""
+
+#: page_inner-front_cover.php:59
+#@ bookcard
+msgid "OPEN"
+msgstr ""
+
+#: page_inner-portfolio.php:7
+#@ bookcard
+msgid "PORTFOLIO"
+msgstr ""
+
+#: page_inner-portfolio.php:53
+#@ bookcard
+msgid "ALL"
+msgstr ""
+
+#: single-portfolio.php:57
+#: single-portfolio.php:115
+#@ bookcard
+msgid "close"
+msgstr "close"
+
+#: comments.php:28
+#, php-format
+#@ bookcard
+msgid "1 Comment %2$s"
+msgid_plural "%1$s Comments %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:47
+#@ bookcard
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:54
+#@ bookcard
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:61
+#@ bookcard
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:79
+#@ bookcard
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:311
+#: functions.php:355
+#@ bookcard
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:357
+#@ bookcard
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:393
+#@ bookcard
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:461
+#@ bookcard
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:461
+#@ bookcard
+msgid "(Edit)"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:489
+#, php-format
+#@ bookcard
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:497
+#@ bookcard
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:515
+#@ bookcard
+msgid "Reply"
+msgstr ""
+
+#: page.php:68
+#@ bookcard
+msgid "home"
+msgstr ""
+
+#: searchform.php:3
+#@ bookcard
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:4
+#@ bookcard
+msgid "Search..."
+msgstr ""
+

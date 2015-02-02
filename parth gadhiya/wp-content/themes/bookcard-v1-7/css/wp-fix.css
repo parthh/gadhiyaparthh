@@ -1,0 +1,9 @@
+.mask p { display: inline-block; }
+
+.post-password-required input { display: inline-block; }
+
+.page-template-template-blog-php h3,
+.page-template-template-blog-php .clearfix p
+{
+	padding-left: 0px;
+}
